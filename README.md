@@ -1,2 +1,3 @@
 # exercise-repo
-Conflict
+Test repo
+resolved
